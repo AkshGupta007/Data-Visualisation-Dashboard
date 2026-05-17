@@ -45,7 +45,7 @@ const Dashboard = () => {
             </button>
             <div className="brand">
               <span className="brand-dot" />
-              <h1>BlackCoffer <span>Insights</span></h1>
+              <h1>Insights by Aksh Gupta</h1>
             </div>
           </div>
           <div className="topbar-right">
